@@ -7,65 +7,65 @@
 ## Pages
 
 ### בית
-https://fiyona-6833815b.zappy5.app
+https://example.com
 היכנסי לעולם של FIYONA, מותג הלבשה תחתונה לנשים שמחבר בין תשוקה, הומור ונוחות. קולקציות שמחבקות כל גוף, מחכות לך. גלי את הקסם עוד היום!
 
 ### הסיפור שלנו
-https://fiyona-6833815b.zappy5.app/brand-story
+https://example.com/brand-story
 צללי לסיפור של FIYONA, מותג הלבשה תחתונה אינטימית שלא מפחד לשבור מוסכמות. גלי איך הפכנו את פיונה מ&#39;שרק&#39; לאייקון של ביטחון נשי. בואי למרד האופנתי!
 
 ### גלריית קמפיינים
-https://fiyona-6833815b.zappy5.app/campaign-gallery
+https://example.com/campaign-gallery
 דפדפי בין קמפיינים נועזים של הלבשה תחתונה לנשים במידות גדולות. FIYONA מציגה יופי אמיתי, שובבות ונשיות בכל תמונה. קבלי השראה למראה הבא שלך!
 
 ### צור קשר
-https://fiyona-6833815b.zappy5.app/contact
+https://example.com/contact
 יש לך שאלה על מידות, סטייל או סתם בא לך להגיד שלום? צוות FIYONA כאן להקשיב. צרי איתנו קשר ונהפוך את חוויית ההלבשה התחתונה שלך למושלמת!
 
 ### Products
-https://fiyona-6833815b.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - FIYONA
 
 ### Cart
-https://fiyona-6833815b.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://fiyona-6833815b.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://fiyona-6833815b.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://fiyona-6833815b.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://fiyona-6833815b.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://fiyona-6833815b.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - FIYONA
 
 ### Category
-https://fiyona-6833815b.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - FIYONA
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://fiyona-6833815b.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://fiyona-6833815b.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://fiyona-6833815b.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -93,8 +93,8 @@ Lingerie & Intimate Apparel
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://fiyona-6833815b.zappy5.app/sitemap.xml
-- Robots: https://fiyona-6833815b.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://fiyona-6833815b.zappy5.app/llms-full.txt
-- Products (JSON): https://fiyona-6833815b.zappy5.app/products.json
-- Products (Google Merchant RSS): https://fiyona-6833815b.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml

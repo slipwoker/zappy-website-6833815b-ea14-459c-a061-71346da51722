@@ -2,13 +2,13 @@
 
 FIYONA is a lingerie and intimate apparel brand. The user referenced Fiona from the movie Shrek as a visual/branding element, suggesting a playful, bold, and possibly humorous brand identity that doesn't take itself too seriously — blending femininity with pop culture references.
 
-Source: https://fiyona-6833815b.zappy5.app
+Source: https://example.com
 
 ---
 
 ## גילי את הכוח שבפנים — הלבשה תחתונה לנשים — FIYONA
 
-URL: https://fiyona-6833815b.zappy5.app
+URL: https://example.com
 Description: היכנסי לעולם של FIYONA, מותג הלבשה תחתונה לנשים שמחבר בין תשוקה, הומור ונוחות. קולקציות שמחבקות כל גוף, מחכות לך. גלי את הקסם עוד היום!
 
 גילי את הכוח שבפנים — הלבשה תחתונה לנשים — FIYONA
@@ -507,7 +507,7 @@ FIYONA לא לוקחת את עצמה יותר מדי ברצינות. אנחנו 
 
 ## האגדה שמאחורי הבד — הסיפור הפרוע שלנו — FIYONA
 
-URL: https://fiyona-6833815b.zappy5.app/brand-story
+URL: https://example.com/brand-story
 Description: צללי לסיפור של FIYONA, מותג הלבשה תחתונה אינטימית שלא מפחד לשבור מוסכמות. גלי איך הפכנו את פיונה מ&#39;שרק&#39; לאייקון של ביטחון נשי. בואי למרד האופנתי!
 
 האגדה שמאחורי הבד — הסיפור הפרוע שלנו — FIYONA
@@ -870,7 +870,7 @@ FIYONA לוקחת את עולם ההלבשה התחתונה האינטימית �
 
 ## הציצי לממלכת הפיתוי — גלריית קמפיינים — FIYONA
 
-URL: https://fiyona-6833815b.zappy5.app/campaign-gallery
+URL: https://example.com/campaign-gallery
 Description: דפדפי בין קמפיינים נועזים של הלבשה תחתונה לנשים במידות גדולות. FIYONA מציגה יופי אמיתי, שובבות ונשיות בכל תמונה. קבלי השראה למראה הבא שלך!
 
 הציצי לממלכת הפיתוי — גלריית קמפיינים — FIYONA
@@ -1288,7 +1288,7 @@ Description: דפדפי בין קמפיינים נועזים של הלבשה ת�
 
 ## לחשי לנו את הסודות שלך — צרי קשר — FIYONA
 
-URL: https://fiyona-6833815b.zappy5.app/contact
+URL: https://example.com/contact
 Description: יש לך שאלה על מידות, סטייל או סתם בא לך להגיד שלום? צוות FIYONA כאן להקשיב. צרי איתנו קשר ונהפוך את חוויית ההלבשה התחתונה שלך למושלמת!
 
 לחשי לנו את הסודות שלך — צרי קשר — FIYONA
@@ -1639,7 +1639,7 @@ FIYONA — הלבשה תחתונה לנשים שלא מחכות לאישור ש�
 
 ## מוצרים
 
-URL: https://fiyona-6833815b.zappy5.app/products
+URL: https://example.com/products
 Description: המוצרים שלנו - FIYONA
 
 מוצרים - FIYONA
@@ -1898,7 +1898,7 @@ Description: המוצרים שלנו - FIYONA
 
 ## עגלת קניות
 
-URL: https://fiyona-6833815b.zappy5.app/cart
+URL: https://example.com/cart
 Description: עגלת הקניות שלך
 
 עגלת קניות - FIYONA
@@ -2133,7 +2133,7 @@ Description: עגלת הקניות שלך
 
 ## תשלום
 
-URL: https://fiyona-6833815b.zappy5.app/checkout
+URL: https://example.com/checkout
 Description: תשלום
 
 תשלום - FIYONA
@@ -2554,7 +2554,7 @@ Description: תשלום
 
 ## התחברות
 
-URL: https://fiyona-6833815b.zappy5.app/login
+URL: https://example.com/login
 Description: התחברות לקוחות
 
 התחברות - FIYONA
@@ -2796,7 +2796,7 @@ Description: התחברות לקוחות
 
 ## החשבון שלי
 
-URL: https://fiyona-6833815b.zappy5.app/account
+URL: https://example.com/account
 Description: החשבון שלי
 
 החשבון שלי - FIYONA
@@ -3193,7 +3193,7 @@ Description: החשבון שלי
 
 ## ההזמנה התקבלה!
 
-URL: https://fiyona-6833815b.zappy5.app/order-success
+URL: https://example.com/order-success
 Description: תודה על ההזמנה
 
 ההזמנה התקבלה! - FIYONA
@@ -3452,7 +3452,7 @@ Description: תודה על ההזמנה
 
 ## מדיניות החזרות
 
-URL: https://fiyona-6833815b.zappy5.app/return-policy
+URL: https://example.com/return-policy
 Description: מדיניות החזרת מוצרים - זכויותיכם להחזרה והחלפה בהתאם לחוק
 
 מדיניות החזרות - FIYONA
@@ -3740,7 +3740,7 @@ FIYONA מחויבת לשביעות רצון לקוחותיה. מדיניות ז�
 
 ## פרטי המוצר
 
-URL: https://fiyona-6833815b.zappy5.app/product/:slug
+URL: https://example.com/product/:slug
 Description: פרטי המוצר - FIYONA
 
 פרטי המוצר - FIYONA
@@ -3977,7 +3977,7 @@ Description: פרטי המוצר - FIYONA
 
 ## מוצרים
 
-URL: https://fiyona-6833815b.zappy5.app/category/:slug
+URL: https://example.com/category/:slug
 Description: מוצרים - FIYONA
 
 מוצרים - FIYONA
@@ -4238,7 +4238,7 @@ Description: מוצרים - FIYONA
 
 ## מדיניות פרטיות
 
-URL: https://fiyona-6833815b.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -4518,7 +4518,7 @@ FIYONA ("החברה", "אנו", "שלנו") מחויבת להגן על פרטי�
 
 ## הצהרת נגישות
 
-URL: https://fiyona-6833815b.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -4807,7 +4807,7 @@ FIYONA מחויבת להנגיש את השירותים לכלל הציבור. א
 
 ## תנאי שימוש
 
-URL: https://fiyona-6833815b.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
