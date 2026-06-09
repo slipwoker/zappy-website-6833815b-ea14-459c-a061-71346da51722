@@ -482,9 +482,9 @@ FIYONA לא לוקחת את עצמה יותר מדי ברצינות. אנחנו 
 
 #### צור קשר
 
-- [business_email]
-- [business_phone]
-- [business_address]
+- achinoasulin33@gmail.com
+- 0534288871
+- מושב נוב, רמת הגולן
 
 
 
@@ -837,9 +837,9 @@ FIYONA לוקחת את עולם ההלבשה התחתונה האינטימית �
 
 #### צור קשר
 
-- [business_email]
-- [business_phone]
-- [business_address]
+- achinoasulin33@gmail.com
+- 0534288871
+- מושב נוב, רמת הגולן
 
 
 
@@ -1247,9 +1247,9 @@ Description: דפדפי בין קמפיינים נועזים של הלבשה ת�
 
 #### צור קשר
 
-- [business_email]
-- [business_phone]
-- [business_address]
+- achinoasulin33@gmail.com
+- 0534288871
+- מושב נוב, רמת הגולן
 
 
 
@@ -1474,15 +1474,15 @@ Description: יש לך שאלה על מידות, סטייל או סתם בא ל�
 
 
 
-[business_email]
+achinoasulin33@gmail.com
 
 
 
-[business_phone]
+0534288871
 
 
 
-[business_address]
+מושב נוב, רמת הגולן
 
 
 
@@ -1593,9 +1593,9 @@ FIYONA — הלבשה תחתונה לנשים שלא מחכות לאישור ש�
 
 #### צור קשר
 
-- [business_email]
-- [business_phone]
-- [business_address]
+- achinoasulin33@gmail.com
+- 0534288871
+- מושב נוב, רמת הגולן
 
 
 
@@ -1810,8 +1810,6 @@ Description: המוצרים שלנו - FIYONA
 
 
 
-### כותרת כרטיס 2
-
 
 תחתונים
 
@@ -1853,9 +1851,9 @@ Description: המוצרים שלנו - FIYONA
 
 #### צור קשר
 
-- [business_email]
-- [business_phone]
-- [business_address]
+- achinoasulin33@gmail.com
+- 0534288871
+- מושב נוב, רמת הגולן
 
 
 
@@ -2080,9 +2078,9 @@ Description: עגלת הקניות שלך
 
 #### צור קשר
 
-- [business_email]
-- [business_phone]
-- [business_address]
+- achinoasulin33@gmail.com
+- 0534288871
+- מושב נוב, רמת הגולן
 
 
 
@@ -2357,12 +2355,7 @@ Description: תשלום
 
 
 
-
-
-
-שמור את הכתובת לפעם הבאה
-
-
+מושב נוב, רמת הגולן
 
 
 
@@ -2493,9 +2486,9 @@ Description: תשלום
 
 #### צור קשר
 
-- [business_email]
-- [business_phone]
-- [business_address]
+- achinoasulin33@gmail.com
+- 0534288871
+- מושב נוב, רמת הגולן
 
 
 
@@ -2727,9 +2720,9 @@ Description: התחברות לקוחות
 
 #### צור קשר
 
-- [business_email]
-- [business_phone]
-- [business_address]
+- achinoasulin33@gmail.com
+- 0534288871
+- מושב נוב, רמת הגולן
 
 
 
@@ -2976,22 +2969,7 @@ Description: החשבון שלי
 
 
 
-
-
-
-## כתובות
-
-הוסף כתובת
-
-
-
-
-
-אין כתובות שמורות
-
-
-
-
+מושב נוב, רמת הגולן
 
 
 
@@ -3034,53 +3012,7 @@ Description: החשבון שלי
 
 
 
-
-
-
-
-### הוסף כתובת
-
-×
-
-
-
-
-שם הכתובת
-
-בית
-עבודה
-אחר
-
-
-
-רחוב ומספר
-
-
-
-דירה, קומה, כניסה
-
-
-
-עיר
-
-
-
-מיקוד
-
-
-
-
-
-הגדר כברירת מחדל
-
-
-
-
-שמור שינויים
-ביטול
-
-
-
+מושב נוב, רמת הגולן
 
 
 
@@ -3116,9 +3048,9 @@ Description: החשבון שלי
 
 #### צור קשר
 
-- [business_email]
-- [business_phone]
-- [business_address]
+- achinoasulin33@gmail.com
+- 0534288871
+- מושב נוב, רמת הגולן
 
 
 
@@ -3367,9 +3299,9 @@ Description: תודה על ההזמנה
 
 #### צור קשר
 
-- [business_email]
-- [business_phone]
-- [business_address]
+- achinoasulin33@gmail.com
+- 0534288871
+- מושב נוב, רמת הגולן
 
 
 
@@ -3602,13 +3534,13 @@ FIYONA מחויבת לשביעות רצון לקוחותיה. מדיניות ז�
 לביצוע החזרה או לשאלות:
 
 
-אימייל: [business_email]
+אימייל: achinoasulin33@gmail.com
 
 
-טלפון: [business_phone]
+טלפון: 0534288871
 
 
-כתובת: [business_address]
+כתובת: מושב נוב, רמת הגולן
 
 
 
@@ -3647,9 +3579,9 @@ FIYONA מחויבת לשביעות רצון לקוחותיה. מדיניות ז�
 
 #### צור קשר
 
-- [business_email]
-- [business_phone]
-- [business_address]
+- achinoasulin33@gmail.com
+- 0534288871
+- מושב נוב, רמת הגולן
 
 
 
@@ -3876,9 +3808,9 @@ Description: פרטי המוצר - FIYONA
 
 #### צור קשר
 
-- [business_email]
-- [business_phone]
-- [business_address]
+- achinoasulin33@gmail.com
+- 0534288871
+- מושב נוב, רמת הגולן
 
 
 
@@ -4129,9 +4061,9 @@ Description: מוצרים - FIYONA
 
 #### צור קשר
 
-- [business_email]
-- [business_phone]
-- [business_address]
+- achinoasulin33@gmail.com
+- 0534288871
+- מושב נוב, רמת הגולן
 
 
 
@@ -4375,11 +4307,11 @@ FIYONA ("החברה", "אנו", "שלנו") מחויבת להגן על פרטי�
 
 - חברה: FIYONA
 
-- אימייל: [business_email]
+- אימייל: achinoasulin33@gmail.com
 
-- טלפון: [business_phone]
+- טלפון: 0534288871
 
-- כתובת: [business_address]
+- כתובת: מושב נוב, רמת הגולן
 
 
 
@@ -4425,9 +4357,9 @@ FIYONA ("החברה", "אנו", "שלנו") מחויבת להגן על פרטי�
 
 #### צור קשר
 
-- [business_email]
-- [business_phone]
-- [business_address]
+- achinoasulin33@gmail.com
+- 0534288871
+- מושב נוב, רמת הגולן
 
 
 
@@ -4655,9 +4587,9 @@ FIYONA מחויבת להנגיש את השירותים לכלל הציבור. א
 
 - חברה: FIYONA
 
-- אימייל: [business_email]
+- אימייל: achinoasulin33@gmail.com
 
-- טלפון: [business_phone]
+- טלפון: 0534288871
 
 
 
@@ -4706,9 +4638,9 @@ FIYONA מחויבת להנגיש את השירותים לכלל הציבור. א
 
 #### צור קשר
 
-- [business_email]
-- [business_phone]
-- [business_address]
+- achinoasulin33@gmail.com
+- 0534288871
+- מושב נוב, רמת הגולן
 
 
 
@@ -4959,11 +4891,11 @@ FIYONA מספקת Lingerie & Intimate Apparel דרך האתר. השירותים 
 
 - חברה: FIYONA
 
-- אימייל: [business_email]
+- אימייל: achinoasulin33@gmail.com
 
-- טלפון: [business_phone]
+- טלפון: 0534288871
 
-- כתובת: [business_address]
+- כתובת: מושב נוב, רמת הגולן
 
 
 
@@ -5006,9 +4938,9 @@ FIYONA מספקת Lingerie & Intimate Apparel דרך האתר. השירותים 
 
 #### צור קשר
 
-- [business_email]
-- [business_phone]
-- [business_address]
+- achinoasulin33@gmail.com
+- 0534288871
+- מושב נוב, רמת הגולן
 
 
 
