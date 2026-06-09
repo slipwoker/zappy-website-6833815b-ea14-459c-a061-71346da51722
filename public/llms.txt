@@ -1,0 +1,100 @@
+# FIYONA — Generative Engine Optimization Map
+
+> FIYONA is a lingerie and intimate apparel brand. The user referenced Fiona from the movie Shrek as a visual/branding element, suggesting a playful, bold, and possibly humorous brand identity that doesn't take itself too seriously — blending femininity with pop culture references.
+
+---
+
+## Pages
+
+### בית
+https://fiyona-6833815b.zappy5.app
+היכנסי לעולם של FIYONA, מותג הלבשה תחתונה לנשים שמחבר בין תשוקה, הומור ונוחות. קולקציות שמחבקות כל גוף, מחכות לך. גלי את הקסם עוד היום!
+
+### הסיפור שלנו
+https://fiyona-6833815b.zappy5.app/brand-story
+צללי לסיפור של FIYONA, מותג הלבשה תחתונה אינטימית שלא מפחד לשבור מוסכמות. גלי איך הפכנו את פיונה מ&#39;שרק&#39; לאייקון של ביטחון נשי. בואי למרד האופנתי!
+
+### גלריית קמפיינים
+https://fiyona-6833815b.zappy5.app/campaign-gallery
+דפדפי בין קמפיינים נועזים של הלבשה תחתונה לנשים במידות גדולות. FIYONA מציגה יופי אמיתי, שובבות ונשיות בכל תמונה. קבלי השראה למראה הבא שלך!
+
+### צור קשר
+https://fiyona-6833815b.zappy5.app/contact
+יש לך שאלה על מידות, סטייל או סתם בא לך להגיד שלום? צוות FIYONA כאן להקשיב. צרי איתנו קשר ונהפוך את חוויית ההלבשה התחתונה שלך למושלמת!
+
+### Products
+https://fiyona-6833815b.zappy5.app/products
+המוצרים שלנו - FIYONA
+
+### Cart
+https://fiyona-6833815b.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://fiyona-6833815b.zappy5.app/checkout
+תשלום
+
+### Login
+https://fiyona-6833815b.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://fiyona-6833815b.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://fiyona-6833815b.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://fiyona-6833815b.zappy5.app/product/:slug
+פרטי המוצר - FIYONA
+
+### Category
+https://fiyona-6833815b.zappy5.app/category/:slug
+מוצרים - FIYONA
+
+## Legal & Policy
+
+### Privacy Policy
+https://fiyona-6833815b.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://fiyona-6833815b.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://fiyona-6833815b.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About FIYONA
+FIYONA is a lingerie and intimate apparel brand. The user referenced Fiona from the movie Shrek as a visual/branding element, suggesting a playful, bold, and possibly humorous brand identity that doesn't take itself too seriously — blending femininity with pop culture references.
+
+## Target Audience
+- אופניסטיות עירוניות
+- מחפשות יוקרה מקצועיות
+- פעילות לגוף חיובי
+
+## Industry
+Lingerie & Intimate Apparel
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://fiyona-6833815b.zappy5.app/sitemap.xml
+- Robots: https://fiyona-6833815b.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://fiyona-6833815b.zappy5.app/llms-full.txt
+- Products (JSON): https://fiyona-6833815b.zappy5.app/products.json
+- Products (Google Merchant RSS): https://fiyona-6833815b.zappy5.app/product-feed.xml
